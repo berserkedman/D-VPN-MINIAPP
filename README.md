@@ -1,2 +1,0 @@
-# D-VPN-MINIAPP
-.
